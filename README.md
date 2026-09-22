@@ -1,4 +1,5 @@
 # Gallium Under Constraint
+Link to SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7249538
 
 ### Inventory-Aware Dealer Pricing Under Geopolitical Supply Disruption
 
